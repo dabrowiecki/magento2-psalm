@@ -1,5 +1,5 @@
 {
-    "name": "tdgroot/magento2-psalm",
+    "name": "dabrowiecki/magento2-psalm",
     "description": "Psalm plugin for Magento 2",
     "type": "psalm-plugin",
     "license": "MIT",
