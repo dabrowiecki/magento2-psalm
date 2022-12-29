@@ -1,4 +1,4 @@
-# tdgroot/magento2-psalm
+# dabrowiecki/magento2-psalm
 
 Psalm plugin for Magento 2
 
