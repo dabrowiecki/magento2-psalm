@@ -19,6 +19,9 @@ use Psalm\Plugin\PluginEntryPointInterface;
 use Psalm\Plugin\RegistrationInterface;
 use Visma\Magento2Psalm\Factory\FactoryMocker;
 
+//load framework autloader classes from Magento\TestFramework\TestCase namespace
+require 'dev/tests/api-functional/framework/autoload.php';
+
 /**
  * Class Plugin
  */
